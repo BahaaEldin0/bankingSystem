@@ -1,0 +1,10 @@
+Transaction Processed
+	-Transaction Sequence Number: 1
+
+Card Holder Name: bahaa eldin moustafa
+-PAN: 2323767308883026696
+-Expiry Date: 12/24
+-Amount: 17.000000
+-Max Amount: 77.000000
+-Transaction State: APPROVED
+D
